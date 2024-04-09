@@ -15,9 +15,7 @@ We will utilize the following datasets:
 ## Implementation Plan
 
 ### Step 1: Data Collection
-- Collect data from the [EIA's detailed gas and diesel reports](https://www.eia.gov/petroleum/gasdiesel/) and the [Democrat and Chronicle gas price dataset](https://data.democratandchronicle.com/gas-price/).
-
-### Step 2: Data Preprocessing
+- Collect data from the [EIA's detailed gas and diesel reports](https://www.eia.gov/petroleum/gasdiesel/)
 - **Cleaning**: Remove or correct anomalies such as missing values, duplicates, or incorrect data types.
 - **Normalization**: Adjust prices for inflation where necessary to allow for accurate comparisons over time.
 - **Transformation**: Reshape the dataset for analysis, including structuring it into a clean, analyzable format.
