@@ -15,7 +15,7 @@ We will utilize the following datasets:
 ## Implementation Plan
 
 ### Step 1: Data Collection
-- Collect data from the [EIA's detailed gas and diesel reports](https://www.eia.gov/petroleum/gasdiesel/)
+- Collect data from the [EIA's detailed gas and diesel reports](https://www.eia.gov/petroleum/gasdiesel/) and the [Crude Oil Prices - 70 Year Historical Chart](https://www.macrotrends.net/1369/crude-oil-price-history-chart)
 - **Cleaning**: Remove or correct anomalies such as missing values, duplicates, or incorrect data types.
 - **Normalization**: Adjust prices for inflation where necessary to allow for accurate comparisons over time.
 - **Transformation**: Reshape the dataset for analysis, including structuring it into a clean, analyzable format.
