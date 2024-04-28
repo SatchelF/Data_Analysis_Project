@@ -11,6 +11,7 @@ This project aims to analyze U.S. gas price trends and their impacts on the econ
 We will utilize the following datasets:
 - **EIA's Detailed Gas and Diesel Reports**: Provides weekly average prices for various grades of gasoline and diesel across multiple U.S. regions since 1990.
 - **Democrat and Chronicle Gas Price Dataset**: Offers a broader context for regional price variations.
+- **Crude Oil Prices - 70 Year Historical Chart**: Provides Crude Oil Prices over a 70 year span. 
 
 ## Implementation Plan
 
